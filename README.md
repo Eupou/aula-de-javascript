@@ -1,2 +1,2 @@
-# aula-de-javascript
-Aula de introdução ao JavaScript
+# clonando a interface da Netflix
+### Refiz a interface da Netflix, adicionei uma boa parte das funcionalidades, só não roda os filmes né lol, dentre as funcionalidades: quando passa o mouse sobre os filmes uma borda aparece ao redor das imagens, tentei fazer com que a imagem ficasse maior, mas falhei miseravelmente lol, quando eu tentei tava tentando aumentar o padding e isso empurrava os carroceis de baixo mais para baixo, fiz com que os botões tivessem resposta eles levam para partes especificas da página e também tem o filme principal em destaque que da um destaque na página, achei bem legal fazer a Netflix e foi bem díficil também, esse foi o programa mais completo que eu completo que eu já fiz até agora.
